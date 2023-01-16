@@ -1,6 +1,5 @@
 #  Gapo challenge
 Build a notification screen using Swift, RxSwift and MVVM
-Available on: https://i.diawi.com/8S6rQ9
 ## How to run?
 1. Clone this repo
 2. Open shell window and navigate to project folder
